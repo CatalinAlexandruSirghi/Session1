@@ -1,7 +1,6 @@
 package org.example;
 
 public class Main {
-    public static void Main(String args[]){
-        System.out.println("Hello World!");
+    public static void Main(String[] args){
     }
 }
